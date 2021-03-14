@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/panels/Home.css","webpack://src/App.css"],"names":[],"mappings":"AAAA,4BACI,mBAAoB,CACpB,kBACJ,CCHA,2BACI,wBACJ","file":"main.c064cf32.chunk.css","sourcesContent":[".Placeholder  main-menu-text {\r\n    padding: 0!important;\r\n    margin: 0!important;\r\n}",".PanelHeader__content > span {\r\n    font-size: 16px!important;\r\n}\r\n"]}
